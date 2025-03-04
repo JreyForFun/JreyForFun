@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**JreyForFun/JreyForFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I am a second-year student of STI College Legazpi, passionate about exploring the realms of coding, machine learning, and building robust application.
 
@@ -24,4 +19,3 @@ I am a second-year student of STI College Legazpi, passionate about exploring th
 [![](https://visitcount.itsvg.in/api?id=JreyForFun&icon=7&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
