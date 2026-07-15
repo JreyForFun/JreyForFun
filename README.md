@@ -1,21 +1,179 @@
-# 💫 About Me:
-I am a second-year student of STI College Legazpi, passionate about exploring the realms of coding, machine learning, and building robust application.
+<h1 align="center">Hi there, I'm Ging👋</h1>
 
+<p align="center">
+  <strong>🚀 Space Enthusiast • AI Engineer • Machine Learning Engineer • Data Scientist • Full-Stack Developer</strong>
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jreyforfun@gmail.com) 
+<p align="center">
+Passionate building intelligent software that combines artificial intelligence, machine learning, and modern full-stack development.
+I enjoy turning data into insights, ideas into scalable applications, and solving real-world problems through software engineering.
+Always learning, always building.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JreyForFun&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JreyForFun&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JreyForFun&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ⚡ Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=JreyForFun&icon=7&color=1)](https://visitcount.itsvg.in)
+<tr>
+<td width="50%" valign="top" align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,vite,webpack,eslint,flutter,electron&perline=5"/>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/react" width="48" title="React Native"/>
+<img src="https://cdn.simpleicons.org/expo" width="48" title="Expo"/>
+<img src="https://cdn.simpleicons.org/styledcomponents" width="48" title="Styled Components"/>
+<img src="https://cdn.simpleicons.org/prettier" width="48" title="Prettier"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,fastapi,postgres,mysql,mongodb&perline=5"/>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/graphql" width="48" title="GraphQL"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" title="JWT"/>
+<img src="https://cdn.simpleicons.org/oauth" width="48" title="OAuth"/>
+<img src="https://cdn.simpleicons.org/amazondynamodb" width="48" title="DynamoDB"/>
+<img src="https://cdn.simpleicons.org/awslambda" width="48" title="AWS Lambda"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LDAP-0078D4?style=flat-square"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3"/>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/keras" width="48"/>
+<img src="https://cdn.simpleicons.org/openai" width="48"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="48"/>
+<img src="https://cdn.simpleicons.org/mistralai" width="48"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="48"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/OpenRouter-5B5BD6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AutoGPT-5E17EB?style=flat-square"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab&perline=5"/>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/digitalocean" width="48"/>
+<img src="https://cdn.simpleicons.org/amazonwebservices" width="48" title="CloudFormation"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🔐 Security & Identity
+
+<p>
+
+<img src="https://cdn.simpleicons.org/amazonaws" width="48" title="AWS IAM"/>
+
+<img src="https://cdn.simpleicons.org/microsoftazure" width="48" title="Azure AD"/>
+
+<img src="https://cdn.simpleicons.org/auth0" width="48"/>
+
+<img src="https://cdn.simpleicons.org/okta" width="48"/>
+
+<img src="https://cdn.simpleicons.org/amazoncognito" width="48"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/SAP_CDC-009999?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AES-4CAF50?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RSA-1976D2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SHA-FF9800?style=flat-square"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/GDPR-005AA9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SOC_2-0085CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/ISO_27001-455A64?style=flat-square"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🛠 Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,pycharm&perline=5"/>
+</p>
+
+<p>
+
+<img src="https://cdn.simpleicons.org/discord" width="48"/>
+
+<img src="https://cdn.simpleicons.org/microsoftteams" width="48"/>
+
+<img src="https://cdn.simpleicons.org/googlechat" width="48"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
